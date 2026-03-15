@@ -1,6 +1,18 @@
 
 > Here are practical foundations for DevOps / SRE engineers who are new to High Performance Computing (HPC).
 
+- [1. What is HPC](#1-what-is-hpc)
+- [2. HPC Datacenter Architecture](#2-hpc-datacenter-architecture)
+- [3. HPC Compute Architecture](#3-hpc-compute-architecture)
+- [4. HPC Networking (Ethernet vs InfiniBand, RDMA)](#4-hpc-networking-ethernet-vs-infiniband-rdma)
+- [5. HPC Storage (Lustre, BeeGFS, NFS)](#5-hpc-storage-lustre-beegfs-nfs)
+- [6. NVIDIA GPU Architecture](#6-nvidia-gpu-architecture)
+- [7. HPC Job Scheduling (Slurm)](#7-hpc-job-scheduling-slurm)
+- [8. Typical HPC workload lifecycle](#8-typical-hpc-workload-lifecycle)
+- [Reference architecture: putting it all together](#reference-architecture-putting-it-all-together)
+- [What DevOps / SRE engineers should focus on first](#what-devops--sre-engineers-should-focus-on-first)
+- [Quick mental model](#quick-mental-model)
+
 ---
 
 ## 1. What is HPC
