@@ -11,7 +11,6 @@
 - [8. Typical HPC workload lifecycle](#8-typical-hpc-workload-lifecycle)
 - [Reference architecture: putting it all together](#reference-architecture-putting-it-all-together)
 - [What DevOps / SRE engineers should focus on first](#what-devops--sre-engineers-should-focus-on-first)
-- [Quick mental model](#quick-mental-model)
 
 ---
 
