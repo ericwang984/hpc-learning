@@ -1,6 +1,6 @@
 
 
-# HPC Foundations.md
+# HPC Foundations
 
 > Here are practical foundations for DevOps / SRE engineers who are new to High Performance Computing (HPC).
 
